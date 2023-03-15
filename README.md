@@ -1,6 +1,6 @@
 ### Ola! Pode me chamar de Lucas 👋
 
-- 🔭 Fazendo pesquisa academica
+- 🖊️ Fazendo pesquisa academica
 - 🌱 Aprendendo java e python
 <!-- ***************************************** Stats e linguagens ***************************************** -->
 <div style="display: flex; gap: 100px;">

@@ -1,7 +1,7 @@
-### Ola! Pode me chamar de Lucas 👋
+### Hi! I'm Lucas 👋
 
-- 🖊️ Fazendo pesquisa academica
-- 🌱 Aprendendo java e python
+- 🌱 Learning java and python
+- 🖊️ Studying computer science at Uneps
 <!-- ***************************************** Stats e linguagens ***************************************** -->
 <div style="display: flex; gap: 100px;">
   
@@ -42,9 +42,3 @@
   
 </div>
 <!-- ***************************************** FIM Contatos ***************************************** -->
-
-
-
-
-
-

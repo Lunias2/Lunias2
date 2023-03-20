@@ -2,10 +2,10 @@
 
 - 🌱 Learning java and python
 - 🖊️ Studying computer science at Uneps
-<!-- ***************************************** Stats e linguagens ***************************************** -->
+<!-- ***************************************** Stats e linguagens ***************************************** 
 <div style="display: flex; gap: 100px;">
-  
-  <!-- ***************************************** Card Status ***************************************** -->
+
+  <!-- ***************************************** Card Status ***************************************** 
   <picture >
     <source 
       srcset="https://github-readme-stats.vercel.app/api?username=Lunias2&show_icons=true&theme=radical"
@@ -18,7 +18,7 @@
     <img height="166em" src="https://github-readme-stats.vercel.app/api?username=Lunias2&show_icons=true"/>
   </picture>
   
-  <!-- ***************************************** Linguagens ***************************************** -->
+  <!-- ***************************************** Linguagens *****************************************
   <img style="width: 400px; height: 211px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lunias2&layout=compact&langs_count=8&theme=radical" />
   
 </div>
@@ -29,7 +29,9 @@
   <img align="center" alt="Lucas-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
   <img align="center" alt="Lucas-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-line.svg" />
 </div>
-<!-- ***************************************** FIM Stats e linguagens ***************************************** -->
+<!-- ***************************************** FIM Stats e linguagens *****************************************
+-->
+
 
 ##
 

@@ -1,6 +1,6 @@
 ### Hi! I'm Lucas 👋
 
-- 🌱 Learning java and python
+- 🌱 Learning java, React.js and python
 - 🖊️ Studying computer science at Unesp
 <!-- ***************************************** Stats e linguagens ***************************************** 
 <div style="display: flex; gap: 100px;">

@@ -1,7 +1,7 @@
 ### Hi! I'm Lucas 👋
 
 - 🌱 Learning java, React.js and python
-- 🖊️ Studying computer science at Unesp
+- 🖊️ Studying ADS at Fatec
 <!-- ***************************************** Stats e linguagens ***************************************** 
 <div style="display: flex; gap: 100px;">
 
